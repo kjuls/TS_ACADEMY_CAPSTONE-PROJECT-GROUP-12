@@ -55,3 +55,12 @@ Key steps included:
 - Logistic Regression
 - Random Forest Classification
 - Hyper-Parameter Tuning
+
+#### TECHNOLOGIES USED
+- Python
+- Pandas
+- Numpy
+- Scikit-learn
+- Matplotlib
+- Seaborn
+- imbalanced-learn

@@ -50,3 +50,8 @@ Key steps included:
 - Identifying Missing values: There were no missing values.
 - Dropping Insignificant Columns.
 - Identify Zero Values.
+
+#### MACHINE LEARNING MODELS
+- Logistic Regression
+- Random Forest Classification
+- Hyper-Parameter Tuning

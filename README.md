@@ -32,3 +32,9 @@ The major goal of this capstone project is to build classification models that c
 - Handle imbalanced fraud datasets using resampling techniques
 - Train and evaluate classification models for fraud. 
 - Identify key transaction features that contribute to fraud detection. 
+
+#### DATASET DESCRIPTION
+
+The dataset being used is a fraud detection dataset of users who carried out transactions using paysim. PaySim is a financial simulator that simulates mobile money transactions based on an original dataset. Although the dataset was generated synthetically using paysim, this dataset was chosen because of how good it relates with real world financial transactions and is also a very good dataset that works well with classification models.
+
+The dataset shows transactions that were tagged as fraud and those that were legit. It is a large dataset containing 5,420,481 rows and 27 columns sourced from Kaggle (with aggregated) the link to the dataset is shown as follows:(https://www.kaggle.com/datasets/chendoytshman/fraud-detection-paysim).

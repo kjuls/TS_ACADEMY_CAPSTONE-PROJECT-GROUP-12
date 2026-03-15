@@ -64,3 +64,14 @@ Key steps included:
 - Matplotlib
 - Seaborn
 - imbalanced-learn
+
+#### KEY FEATURES USED
+
+The model uses several behavioral and transaction-based features, including:
+- Transaction amount
+- Average transaction amount last 30 days
+- Total amount sent in the last hour
+- Receiver account balance after transaction
+- Transaction type encoded
+
+These features help capture abnormal financial behavior that may indicate fraud.

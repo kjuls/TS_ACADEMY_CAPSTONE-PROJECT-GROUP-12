@@ -10,3 +10,11 @@ Multiple machine learning algorithms were implemented and compared, including Lo
 Key transaction features such as transaction amount, transaction frequency, account balance behavior, and recent transaction patterns were used to train the models.
 The results demonstrate how machine learning can significantly improve fraud detection capabilities by identifying high-risk transactions while minimizing false positives.
 This project highlights how data-driven models can support financial institutions in preventing fraud, protecting customers, and improving transaction security.
+
+
+#### PROJECT SCOPE
+
+The major goal of this capstone project is to build classification models that could be able to identify the patterns in the various transactions and train these models in order to predict the outcome of the transactions if they are fraud transactions or not. These models are built in an attempt to be deployed into real world data especially financial databases and be able to use the models that we build and train to immediately flag transactions who follows the same pattern of the transactions flagged as fraud and prevent future users from falling victims of fraud.
+
+#### PROJECT OBJECTIVE
+

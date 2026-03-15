@@ -75,3 +75,9 @@ The model uses several behavioral and transaction-based features, including:
 - Transaction type encoded
 
 These features help capture abnormal financial behavior that may indicate fraud.
+
+#### EVALUATION STRATEGY
+- 80/20 Train-Test split
+- Metrics: Accuracy, Precision, Recall, F1-score
+- Confusion Matrix analysis
+- 

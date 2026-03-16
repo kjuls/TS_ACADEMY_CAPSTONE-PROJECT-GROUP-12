@@ -329,20 +329,20 @@ Best CV ROC-AUC    : 0.9993 (99.93%)
 
 ```
 ╔══════════════════════════════════════════════════════════╗
-║           FRAUD DETECTION — FINAL RESULTS               ║
+║           FRAUD DETECTION — FINAL RESULTS                ║
 ╠══════════════════════════════════════════════════════════╣
-║  Dataset          : PaySim (5,420,481 transactions)     ║
-║  Fraud Rate       : 1.12%                               ║
-║  Features Used    : 6                                   ║
-║  Best Model       : Random Forest (Grid Search Tuned)   ║
+║  Dataset          : PaySim (5,420,481 transactions)      ║
+║  Fraud Rate       : 1.12%                                ║
+║  Features Used    : 6                                    ║
+║  Best Model       : Random Forest (Grid Search Tuned)    ║
 ║                                                          ║
-║  Test Recall      : 97.50% → 98.00% (after GS)         ║
-║  Test Precision   : 56.40% → 60.00% (after GS)         ║
-║  Test F1 Score    : 71.46% → 75.00% (after GS)         ║
-║  ROC-AUC          : 0.9993                              ║
+║  Test Recall      : 97.50% → 98.00% (after GS)           ║
+║  Test Precision   : 56.40% → 60.00% (after GS)           ║
+║  Test F1 Score    : 71.46% → 75.00% (after GS)           ║
+║  ROC-AUC          : 0.9993                               ║
 ║                                                          ║
-║  Fraud Cases Caught    : 11,830 / 12,133 (97.5%)        ║
-║  Fraud Cases Missed    :    303 / 12,133  (2.5%)        ║
+║  Fraud Cases Caught    : 11,830 / 12,133 (97.5%)         ║
+║  Fraud Cases Missed    :    303 / 12,133  (2.5%)         ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 

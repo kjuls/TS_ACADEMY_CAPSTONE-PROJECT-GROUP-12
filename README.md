@@ -1,4 +1,4 @@
-# TS_ACADEMY_CAPSTONE_PROJECT-GROUP-12 (March 2026)
+# TS ACADEMY CAPSTONE PROJECT-GROUP-12 (March 2026)
 
 ### Mobile Money Fraud Detection through Classification Models
 
